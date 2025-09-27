@@ -3,11 +3,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=3000&color=AC1C23&center=true&vCenter=true&random=false&width=520&height=22&lines=A+Game+%26+Full-Stack+Developer" alt="Typing SVG" /></a>
 </h2>
 
-
-<div align="center"> 
-<a href="https://github.com/imthatdev"><img src="https://komarev.com/ghpvc/?username=imthatdev&color=ac1c23&style=flat-square&label=Profile%20Views" /></a> 
-</div>
-
   <div align="left">  
     
 ### 🔥 What I’m working on:  
