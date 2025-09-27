@@ -1,34 +1,21 @@
-<h3 align="center"> Hewo, I'm Laith - aka <a href="https://iconical.dev">Iconical</a> 👋 </h3>
+<h3 align="center"> Hewo, I'm <a href="https://iconical.dev">Iconical</a> 👋 </h3>
 <h2 align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=3000&color=AC1C23&center=true&vCenter=true&random=false&width=520&height=22&lines=A+Full-Stack+Developer+%26+Designer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=3000&color=AC1C23&center=true&vCenter=true&random=false&width=520&height=22&lines=A+Game+%26+Full-Stack+Developer" alt="Typing SVG" /></a>
 </h2>
 
 
 <div align="center"> 
-<a href="https://github.com/Sleepyico"><img src="https://komarev.com/ghpvc/?username=Sleepyico&color=ac1c23&style=flat-square&label=Profile%20Views" /></a> 
+<a href="https://github.com/imthatdev"><img src="https://komarev.com/ghpvc/?username=imthatdev&color=ac1c23&style=flat-square&label=Profile%20Views" /></a> 
 </div>
 
   <div align="left">  
     
 ### 🔥 What I’m working on:  
-- Constantly **improving my stack**—from game to full-stack development.  
-- Developing games in Unreal Engine and web aoos with Next.js.  
-- Building **OopsApps**, a suite of self-hosted web apps for smarter workflows.  
-
-### 🥅 2025-2026 Goals:  
-- Contribute more to open-source and community-driven development.  
-- Keep pushing my skills in both game and web development.  
-- Finalize and launch my side projects.  
-
-### 🎨 What I create:  
-- **Games** (Unreal Engine, Godot)  
-- **Web Apps** (Next.js, TypeScript, full-stack systems)  
-- **Automation & Tools** (Discord bots, AI-powered features)  
+- Constantly **improving my stack** from game to full-stack development.  
+- Developing games in Unreal Engine and web apps with Next.js.  
 
 ### ☕ Support my madness: 
  - If you enjoy my work, find it useful, or just want to fuel my late-night coding sprees, [Buy me a coffee](https://www.buymeacoffee.com/iconical) and keep the madness alive!  
-
-    
 
   </div>
 </div>
@@ -39,27 +26,19 @@
   <h2 style="font-size: 1.5rem">Connect with me 💟</h2>
 </div>
 <div align="center">
-  <a href="https://twitter.com/Sleepyiconical" target="_blank">
+  <a href="https://x.com/imthatdevy" target="_blank">
     <img src="src/images/icons/Social/twitter.svg" alt="Twitter/X" width="5%" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://linkedin.com/in/sleepyico" target="_blank">
+  <a href="https://linkedin.com/in/imthatdev" target="_blank">
     <img src="src/images/icons/Social/linkedin.svg" alt="LinkedIn" width="5%" style="margin-bottom: 5px;" />
   </a>
   <a href="https://iconical.dev/discord" target="_blank">
     <img src="src/images/icons/Social/discord.svg" alt="Discord" width="5%" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://iconical.dev/blog" target="_blank">
-    <img src="src/images/icons/Social/devto-v2.svg" alt="Blog" width="5%" style="margin-bottom: 3px;" />
-  </a>
   <a href="https://iconical.dev/" target="_blank">
     <img src="src/images/icons/Social/website-pink.svg" alt="Website" width="5%" style="margin-bottom: 3px;" />
   </a>
 </div>  
-<br>
-<div align="center">
-    <a href="https://www.buymeacoffee.com/iconical" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Support My Madness" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>  
-</div>
-
 
 <br>
 
@@ -127,39 +106,23 @@
 
 <div align="center">
 <a href="https://iconical.dev/">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sleepyico&theme=dark&show_icons=true&bg_color=DD272700&hide_border=true&custom_title=Laith%27s%20Stats&title_color=ac1d24&icon_color=FCD0DA&text_color=FFFFFF&count_private=true&include_all_commits=true&" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=imthatdev&theme=dark&show_icons=true&bg_color=DD272700&hide_border=true&custom_title=Laith%27s%20Stats&title_color=ac1d24&icon_color=FCD0DA&text_color=FFFFFF&count_private=true&include_all_commits=true&" />
 </a>
 
 <a>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Sleepyico&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&background=DD272700&ring=FCD0DA&stroke=ac1d24&fire=ac1d24&currStreakNum=FFFFFF&sideNums=ac1d24&currStreakLabel=ac1d24&sideLabels=FCD0DA&dates=FFFFFF"> </a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=imthatdev&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&background=DD272700&ring=FCD0DA&stroke=ac1d24&fire=ac1d24&currStreakNum=FFFFFF&sideNums=ac1d24&currStreakLabel=ac1d24&sideLabels=FCD0DA&dates=FFFFFF"> </a>
 
 <a href="https://iconical.dev/">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sleepyico&theme=dark&layout=compact&bg_color=DD272700&hide_border=true&custom_title=Laith%27s%20Most%20Used%20Languages&title_color=ac1d24&text_color=FAF9F6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imthatdev&theme=dark&layout=compact&bg_color=DD272700&hide_border=true&custom_title=Laith%27s%20Most%20Used%20Languages&title_color=ac1d24&text_color=FAF9F6" />
 </a>
  
 <a>
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iconical&theme=dark&bg_color=DD272700&hide_border=true&title_color=ac1d24&text_color=FAF9F6&icon_color=FAF9F6&line_height=20&custom_title=Laith%27s%20Time%20Spent%20on%20Coding&langs_count=6"></a>
 </div>
-<p align="center"> <a href="https://github.com/Sleepyico"><img src="https://github-profile-trophy.vercel.app/?username=Sleepyico&theme=dark_dimmed&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="Sleepyico" /></a> </p>
+<p align="center"> <a href="https://github.com/imthatdev"><img src="https://github-profile-trophy.vercel.app/?username=imthatdev&theme=dark_dimmed&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="imthatdev" /></a> </p>
   
 </details>
 
----
-
-<br>
-
-<details close>
-  <summary>🧠 Check Activities</summary>
-<div align="center">
-    <a href="https://discord.com/invite/QXpFpg94uG"><img src="https://lanyard.cnrad.dev/api/362301055976996864?bg=0a0a0a&borderRadius=12)](https://discord.com/users/362301055976996864"></a>
-     <img src="https://discordapp.com/api/guilds/484502176245350410/widget.png?style=banner3" alt="Discord Banner 2"/>
-  </div>
-  <br />
-<div align="center">
-  <a href="https://github.com/Sleepyico"><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&author=Laith&quote=Never%20interrupt%20your%20enemies%20when%20they%20are%20making%20a%20mistake" /></a>
-  </details>
- </div>
-  
 ---
 
 ### 📑 Recent Blog Posts
@@ -173,5 +136,5 @@
 
 ---
   
-<h4 align="center"><a href="https://github.com/Sleepyico"><img src="https://img.shields.io/github/license/Sleepyico/Sleepyico?color=ac1c23&logo=unlicense&logoColor=ac1c23&style=for-the-badge"></a>
+<h4 align="center"><a href="https://github.com/imthatdev"><img src="https://img.shields.io/github/license/imthatdev/imthatdev?color=ac1c23&logo=unlicense&logoColor=ac1c23&style=for-the-badge"></a>
   <br><a href="https://iconical.dev/">©Iconical</a></h4>
