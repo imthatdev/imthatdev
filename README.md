@@ -27,7 +27,7 @@
   <a href="https://linkedin.com/in/imthatdev" target="_blank">
     <img src="src/images/icons/Social/linkedin.svg" alt="LinkedIn" width="5%" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://iconical.dev/discord" target="_blank">
+  <a href="https://discord.gg/7DUYtc3wv2" target="_blank">
     <img src="src/images/icons/Social/discord.svg" alt="Discord" width="5%" style="margin-bottom: 5px;" />
   </a>
   <a href="https://iconical.dev/" target="_blank">
