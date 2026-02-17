@@ -122,7 +122,7 @@
 
 ### 📑 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [[Blog] wow](https://iconical.dev/blog/wow)
+- [[Blog] Why Overpolished Projects Are Killing Developer Creativity](https://iconical.dev/blog/why-overpolished-projects-are-killing-developer-creativity)
 - [[Project] Swush](https://iconical.dev/projects/swush)
 - [[Project] Bloggy](https://iconical.dev/projects/bloggy)
 - [[Project] OopsBudgeter](https://iconical.dev/projects/oopsbudgeter)
