@@ -122,11 +122,11 @@
 
 ### 📑 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Release] fix: update changelog for v1.0.4 release, enhance public file viewing logic, and normalize file payload typing &lpar;an attempt to resolve the issue in issue#1&rpar;, enforce anon from file settings, and clear lint warnings](https://github.com/imthatdev/swush/commit/3afd4f81bb8eb23c895e6d3753b379c58d24eb07)
 - [[Blog] Why Overpolished Projects Are Killing Developer Creativity](https://iconical.dev/blog/why-overpolished-projects-are-killing-developer-creativity)
 - [[Project] Swush](https://iconical.dev/projects/swush)
 - [[Project] Bloggy](https://iconical.dev/projects/bloggy)
 - [[Project] OopsBudgeter](https://iconical.dev/projects/oopsbudgeter)
-- [[Project] NeverDone](https://iconical.dev/projects/neverdone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
