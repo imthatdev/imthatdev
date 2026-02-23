@@ -122,11 +122,11 @@
 
 ### 📑 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Release] feat: release v1.0.8 with theme motion enhancements, API improvements, and documentation updates](https://github.com/imthatdev/swush/commit/a8aecbeb2d7f59c27ab41024ca4a4bf4c57a9827)
+- [[Release] feat: release v1.0.6 with Vault UX and selection improvements, including file categorization fixes and enhanced bulk selection behavior](https://github.com/imthatdev/swush/commit/cf4d090f71e1c1a38bafc3e2091159561a727bd4)
 - [[Release] fix: update changelog for v1.0.4 release, enhance public file viewing logic, and normalize file payload typing &lpar;an attempt to resolve the issue in issue#1&rpar;, enforce anon from file settings, and clear lint warnings](https://github.com/imthatdev/swush/commit/3afd4f81bb8eb23c895e6d3753b379c58d24eb07)
 - [[Blog] Why Overpolished Projects Are Killing Developer Creativity](https://iconical.dev/blog/why-overpolished-projects-are-killing-developer-creativity)
 - [[Project] Swush](https://iconical.dev/projects/swush)
-- [[Project] Bloggy](https://iconical.dev/projects/bloggy)
-- [[Project] OopsBudgeter](https://iconical.dev/projects/oopsbudgeter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
